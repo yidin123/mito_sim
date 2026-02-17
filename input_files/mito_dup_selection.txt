@@ -1,0 +1,6 @@
+#alphabet: A C G T
+#length: 10
+
+# pos  A    C    G    T    (additive effects)
+1      0    0    0    0
+
