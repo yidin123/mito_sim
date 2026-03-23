@@ -1,0 +1,10 @@
+#mtDNA_init.fasta
+#alphabet: A C G T
+#length: 10
+
+#celltype: DEFAULT proportion=1.0 mutant_fraction=0.50
+>WT
+AAAAAAAAAA
+
+>HAP_A proportion_within_mutants=1.00
+GAAAAAAAAA
